@@ -25,7 +25,7 @@ Credits:
 - [Assignment Handout](assignments/a3/a3.pdf)
 - **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a3/a3.ipynb)**
 
-**Assignment 4: Neural Machine Translation with Recurrent Neural Networks **
+**Assignment 4: Neural Machine Translation with Recurrent Neural Networks**
 - [Assignment Handout](assignments/a4/a4.pdf)
 - **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a4/a4.ipynb)**
 
