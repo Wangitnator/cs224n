@@ -15,20 +15,20 @@ Credits:
 
 **Assignment 1: Exploring Word Vectors**
 - [Assignment Handout](assignments/a1/a1.pdf)
-- **[Answers to Problem Set #0](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a1/a1.ipynb?flush_cache=true)**
+- **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a1/exploring_word_vectors.ipynb?flush_cache=true)**
 
 **Assignment 2: Understanding word2vec**
 - [Assignment Handout](assignments/a2/a2.pdf)
-- **[Answers to Problem Set #0](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a2/a2.ipynb?flush_cache=true)**
+- **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a2/a2.ipynb?flush_cache=true)**
 
 **Assignment 3: Dependency Parsing**
 - [Assignment Handout](assignments/a3/a3.pdf)
-- **[Answers to Problem Set #0](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a3/a3.ipynb?flush_cache=true)**
+- **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a3/a3.ipynb?flush_cache=true)**
 
 **Assignment 4: Neural Machine Translation with Recurrent Neural Networks **
 - [Assignment Handout](assignments/a4/a4.pdf)
-- **[Answers to Problem Set #0](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a4/a4.ipynb?flush_cache=true)**
+- **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a4/a4.ipynb?flush_cache=true)**
 
 **Assignment 5: Neural Machine Translation using Subword Modeling (Character-based CNN encoder + RNN-based decoder)**
 - [Assignment Handout](assignments/a5/a5.pdf)
-- **[Answers to Problem Set #0](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a5/a5.ipynb?flush_cache=true)**
+- **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a5/a5.ipynb?flush_cache=true)**
