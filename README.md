@@ -19,16 +19,16 @@ Credits:
 
 **Assignment 2: Understanding word2vec**
 - [Assignment Handout](assignments/a2/a2.pdf)
-- **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a2/a2.ipynb?flush_cache=true)**
+- **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a2/a2.ipynb)**
 
 **Assignment 3: Dependency Parsing**
 - [Assignment Handout](assignments/a3/a3.pdf)
-- **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a3/a3.ipynb?flush_cache=true)**
+- **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a3/a3.ipynb)**
 
 **Assignment 4: Neural Machine Translation with Recurrent Neural Networks **
 - [Assignment Handout](assignments/a4/a4.pdf)
-- **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a4/a4.ipynb?flush_cache=true)**
+- **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a4/a4.ipynb)**
 
 **Assignment 5: Neural Machine Translation using Subword Modeling (Character-based CNN encoder + RNN-based decoder)**
 - [Assignment Handout](assignments/a5/a5.pdf)
-- **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a5/a5.ipynb?flush_cache=true)**
+- **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a5_public/a5.ipynb)**
