@@ -15,7 +15,7 @@ Credits:
 
 **Assignment 1: Exploring Word Vectors**
 - [Assignment Handout](assignments/a1/a1.pdf)
-- **[Answers](https://nbviewer.jupyter.org/github/Wangitnator/cs224n/blob/master/assignments/a1/exploring_word_vectors.ipynb?flush_cache=true)**
+- **[Answers](assignments/a1/exploring_word_vectors.ipynb)**
 
 **Assignment 2: Understanding word2vec**
 - [Assignment Handout](assignments/a2/a2.pdf)
